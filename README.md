@@ -7,6 +7,7 @@
 * [BlueBack.Font](https://github.com/bluebackblue/UpmFont)
 * [BlueBack.Gl](https://github.com/bluebackblue/UpmGl)
 * [BlueBack.JsonItem](https://github.com/bluebackblue/UpmJsonItem)
+* [BlueBack.Math](https://github.com/bluebackblue/UpmMath)
 * [BlueBack.Mouse](https://github.com/bluebackblue/UpmMouse)
 * [BlueBack.Pad](https://github.com/bluebackblue/UpmPad)
 * [BlueBack.PoolList](https://github.com/bluebackblue/UpmPoolList)
