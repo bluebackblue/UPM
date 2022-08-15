@@ -20,4 +20,6 @@
 * [BlueBack.TestLib](https://github.com/bluebackblue/UpmTestLib)
 * [BlueBack.TimeScale](https://github.com/bluebackblue/UpmTimeScale)
 * [BlueBack.UnityPlayerLoop](https://github.com/bluebackblue/UpmUnityPlayerLoop)
+* [BlueBack.VariableDigit](https://github.com/bluebackblue/UpmVariableDigit)
+* [BlueBack.VersionManager](https://github.com/bluebackblue/UpmVersionManager)
 * [BlueBack.Vosk](https://github.com/bluebackblue/UpmVosk)
