@@ -4,6 +4,7 @@
 * [BlueBack.Audio](https://github.com/bluebackblue/UpmAudio)
 * [BlueBack.Code](https://github.com/bluebackblue/UpmCode)
 * [BlueBack.Console](https://github.com/bluebackblue/UpmConsole)
+* [BlueBack.Debug](https://github.com/bluebackblue/UpmDebug)
 * [BlueBack.DrawInstance](https://github.com/bluebackblue/UpmDrawInstance)
 * [BlueBack.Excel](https://github.com/bluebackblue/UpmExcel)
 * [BlueBack.Font](https://github.com/bluebackblue/UpmFont)
