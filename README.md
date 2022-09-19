@@ -1,7 +1,7 @@
 # UPM
 
 * [BlueBack.AssetLib](https://github.com/bluebackblue/UpmAssetLib)
-* [BlueBack.Audio](https://github.com/bluebackblue/UpmAudio)
+* [BlueBack.Bgm](https://github.com/bluebackblue/UpmBgm)
 * [BlueBack.Code](https://github.com/bluebackblue/UpmCode)
 * [BlueBack.Console](https://github.com/bluebackblue/UpmConsole)
 * [BlueBack.Debug](https://github.com/bluebackblue/UpmDebug)
